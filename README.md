@@ -1,4 +1,4 @@
-# 🧬 Whole Genome Sequencing (WGS) — Bioinformatics Demo
+# 🧬 Whole Genome Sequencing (WGS) — Bioinformatics 
 
 A beginner-friendly **Whole Genome Sequencing (WGS) bioinformatics workflow** demonstrating how sequencing reads can be generated, aligned to a reference genome, processed, and analyzed for genomic variants.
 
