@@ -245,3 +245,10 @@ If you find this project useful, consider ⭐ starring the repository and follow
 * 🧬 **BWA:** https://github.com/lh3/bwa
 * 🧫 **SAMtools:** https://github.com/samtools/samtools
 * 🔬 **BCFtools:** https://github.com/samtools/bcftools
+
+
+
+
+
+<img width="1536" height="1024" alt="WGS" src="https://github.com/user-attachments/assets/eeb231c8-cae6-48c3-a271-5ba3ac7b4d66" />
+
