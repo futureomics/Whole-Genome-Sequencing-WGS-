@@ -240,7 +240,7 @@ If you find this project useful, consider ⭐ starring the repository and follow
 
 ### 🔗 Resources
 
-* 🧬 **Future Omics YouTube:** https://www.youtube.com/@Bioinformatics_Made_Easy
+* 🧬 **Future Omics YouTube:** https://www.youtube.com/@Bioinformatics_Made_Easy?sub_confirmation=1 
 * 🧪 **NCBI Genome Database:** https://www.ncbi.nlm.nih.gov/genome/
 * 🧬 **BWA:** https://github.com/lh3/bwa
 * 🧫 **SAMtools:** https://github.com/samtools/samtools
