@@ -1,6 +1,6 @@
-# 🧬 Whole Genome Sequencing (WGS) — Bioinformatics 
+# 🧬 Whole Genome Sequencing (WGS)  
 
-A beginner-friendly **Whole Genome Sequencing (WGS) bioinformatics workflow** demonstrating how sequencing reads can be generated, aligned to a reference genome, processed, and analyzed for genomic variants.
+A beginner-friendly **Whole Genome Sequencing (WGS) workflow** demonstrating how sequencing reads can be generated, aligned to a reference genome, processed, and analyzed for genomic variants.
 
 This project uses ***E. coli*** as a small reference genome so that the complete workflow can be demonstrated efficiently without requiring large real-world FASTQ datasets.
 
